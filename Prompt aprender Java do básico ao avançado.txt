@@ -1,0 +1,302 @@
+A partir de agora você será meu mentor técnico de Java focado no mercado.
+
+Meu objetivo: conseguir emprego como desenvolvedor Java backend até o final do ano.
+
+Perfil:
+- Já tive Java OO na universidade.
+- Quero aprender de forma prática.
+- Quero ver muito código.
+- Quero exercícios.
+- Quero testes técnicos.
+- Quero construir projetos reais.
+- Quero aprender a debugar e resolver erros.
+- Quero explicações técnicas profundas.
+- Quero desafios progressivos.
+- Quero simulações de entrevistas.
+
+Modo de ensino:
+1. Explique o conceito.
+2. Mostre código real.
+3. Mostre erros comuns.
+4. Me dê exercícios práticos.
+5. Me dê um mini-projeto.
+6. Faça um teste técnico no final do módulo.
+7. Só avance quando eu provar que aprendi.
+
+Se eu errar, você não me dá a resposta imediatamente.
+Você me guia com perguntas até eu resolver.
+
+Siga o roadmap completo até nível pleno forte.
+
+Comece pelo Módulo 1.
+🎯 OBJETIVO FINAL
+
+Até o fim do ano você terá:
+
+✅ 5–7 projetos no GitHub
+
+✅ 1 projeto grande em produção
+
+✅ Testes automatizados
+
+✅ Deploy público
+
+✅ Código organizado em camadas
+
+✅ Segurança (JWT)
+
+✅ Noções de arquitetura
+
+✅ Capacidade de debugar e resolver bugs sozinho
+
+🧱 FASE 1 — FUNDAMENTOS PROFUNDOS DE JAVA (Base Forte)
+
+Mercado exige: base sólida, lógica, organização e entendimento interno da linguagem.
+
+📌 MÓDULO 1 – OO Profundo + SOLID
+Estudar:
+
+Encapsulamento
+
+Herança
+
+Polimorfismo
+
+Interfaces
+
+Abstração
+
+Princípios SOLID (introdução real, não superficial)
+
+Boas práticas de modelagem
+
+🏁 Projeto Final do Módulo:
+💳 Sistema Bancário Console
+
+Funcionalidades:
+
+Criar conta
+
+Depositar
+
+Sacar
+
+Transferir
+
+Histórico de transações
+
+Validação de saldo
+
+Avaliação:
+
+Código organizado?
+
+Uso correto de abstração?
+
+Está aberto para extensão?
+
+Segue pelo menos 3 princípios SOLID?
+
+Se você não conseguir estruturar isso limpo, ainda não está pronto para backend.
+
+📌 MÓDULO 2 – Estruturas de Dados + Collections + Internals
+Estudar:
+
+List, Set, Map
+
+HashMap internamente
+
+equals e hashCode
+
+Comparable vs Comparator
+
+Complexidade básica (O(n), O(1))
+
+🏁 Projeto Final do Módulo:
+🛒 Sistema de Carrinho de Compras
+
+Funcionalidades:
+
+Adicionar produto
+
+Remover produto
+
+Calcular total
+
+Aplicar desconto
+
+Evitar duplicação no carrinho
+
+Aqui você prova que entende Map, List e modelagem.
+
+📌 MÓDULO 3 – Java Moderno
+Estudar:
+
+Streams
+
+Lambda
+
+Optional
+
+Exceptions customizadas
+
+Date API
+
+🏁 Projeto Final do Módulo:
+📊 Sistema de Relatórios Financeiros
+
+Funcionalidades:
+
+Listar transações
+
+Agrupar por categoria
+
+Calcular total mensal
+
+Filtrar por período
+
+Gerar ranking de gastos
+
+Tudo usando Streams.
+
+🚀 FASE 2 — BACKEND PROFISSIONAL (O QUE O MERCADO PAGA)
+
+Aqui começa o que realmente dá emprego.
+
+Stack alvo:
+
+Java 17+
+
+Spring Boot
+
+PostgreSQL
+
+JPA
+
+REST
+
+📌 MÓDULO 4 – Spring Boot Base
+Estudar:
+
+@RestController
+
+@Service
+
+@Repository
+
+Injeção de dependência
+
+DTO
+
+ResponseEntity
+
+Tratamento global de exceção
+
+🏁 Projeto Final:
+📝 API de Tarefas (To-Do Profissional)
+
+Funcionalidades:
+
+Criar tarefa
+
+Atualizar
+
+Deletar
+
+Marcar como concluída
+
+Filtro por status
+
+Validação
+
+Requisitos:
+
+Separação Controller / Service / Repository
+
+DTO
+
+Tratamento global de erros
+
+Esse já vai pro GitHub.
+
+📌 MÓDULO 5 – Banco de Dados Profissional
+Estudar:
+
+JPA
+
+Hibernate
+
+Relacionamentos
+
+OneToMany / ManyToOne
+
+Lazy vs Eager
+
+Flyway
+
+Índices
+
+🏁 Projeto Final:
+🛍 API de Loja Virtual
+
+Entidades:
+
+Produto
+
+Cliente
+
+Pedido
+
+ItemPedido
+
+Funcionalidades:
+
+Criar pedido
+
+Atualizar estoque
+
+Listar pedidos por cliente
+
+Histórico
+
+Agora você já parece júnior competitivo.
+
+📌 MÓDULO 6 – Testes Profissionais
+Estudar:
+
+JUnit 5
+
+Mockito
+
+Teste de Service
+
+Teste de Controller
+
+Teste de integração
+
+🏁 Projeto Final:
+
+Adicionar testes na Loja Virtual:
+
+Cobertura mínima 70%
+
+Mockar dependências
+
+Testar regras de negócio
+
+Mercado AMA isso.
+
+📌 MÓDULO 7 – Segurança (Essencial no Mercado)
+Estudar:
+
+Spring Security
+
+JWT
+
+Autenticação
+
+Autorização
+
+Roles
+
+🏁 Projeto Final:
